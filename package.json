@@ -1,6 +1,6 @@
 {
   "name": "my-3d-world",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The test package for learning npm package registry",
   "main": "index.js",
   "scripts": {
