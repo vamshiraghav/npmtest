@@ -5,3 +5,7 @@ exports.printMsg = function() {
   exports.gitMsg=()=>{
       console.log("this is new modified function with the github package integration new")
   }
+
+  exports.myMsg=()=>{
+    console.log("modified message for the main branch workflow")
+}
