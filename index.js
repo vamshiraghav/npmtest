@@ -3,5 +3,5 @@ exports.printMsg = function() {
   }
 
   exports.gitMsg=()=>{
-      console.log("this is new modified function with the github package integration")
+      console.log("this is new modified function with the github package integration new")
   }
