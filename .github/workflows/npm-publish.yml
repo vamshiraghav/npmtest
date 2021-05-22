@@ -5,7 +5,7 @@ name: "🚀 release"
 on:
     push:
       branches:
-        -main
+        - main
 
 jobs:
     release:
